@@ -149,7 +149,7 @@ The original flat-file dataset was normalized into Third Normal Form (3NF) to re
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](erd/retail_sales_erd.png)
+![ERD](Asset/ERD.pdf)
 
 ### Relationships
 
